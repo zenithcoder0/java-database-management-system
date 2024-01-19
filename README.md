@@ -6,3 +6,5 @@ I still don't understand why that was the case but in any case I was able to aut
 This works with gitkraken and github terminal
 
 potato potato it works now
+
+Day 1 going to look into do some actual coding...
