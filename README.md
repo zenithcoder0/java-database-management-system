@@ -8,3 +8,5 @@ This works with gitkraken and github terminal
 potato potato it works now
 
 Day 1 going to look into do some actual coding...
+Tried to get the connection to the database started but there wasn't anything that was connecting for some reason?
+I have no idea what is going on here at this point. Going to need to look more into MySQL
